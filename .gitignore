@@ -1,5 +1,5 @@
 testfolder/important_config.yml
 # 한번 commit된 파일은 즉시 ignore 처리되지 않음
-C:\Users\Playdata\Desktop\16\git_practice\test.txt
+test.txt
 
 #실수로 commit을 했다면, 캐시를 명령어로 지워야 함. 단, 이미 commit된 로그는 못 지움.
