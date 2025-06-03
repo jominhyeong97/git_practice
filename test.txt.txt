@@ -1,0 +1,25 @@
+hello world1
+hello world2
+hello world3
+
+import java.io.*;
+import java.util.StringTokenizer;
+
+//https://www.acmicpc.net/problem/2738
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine()," ");
+        Stringbuilder sb = new StringBuilder();
+        int n = Integer.parseInt(st.nextToken());
+        int m = Integer.parseInt(st.nextToken());
+        Integer [][] arrays = new Integer[n][m];
+
+        for (int i=0; i<n; i++) {
+
+            for (int j=0; j<m; j++) {
+                arrays[i][j] =
+            }
+        }
+    }
+}
